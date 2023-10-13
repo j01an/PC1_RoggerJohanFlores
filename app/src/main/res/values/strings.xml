@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PC1_RoggerJohanFlores</string>
+    <string name="exm_p">Examen Parcial</string>
+    <string name="exm_f">Examen Final</string>
+    <string name="PEP">Promedio de Evaluacion Permanente(PEP)</string>
+    <string name="btn_calc">CALCULAR</string>
+    <string name="btn_back">VOLVER</string>
+</resources>
